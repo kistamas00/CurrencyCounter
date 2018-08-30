@@ -1,1 +1,1 @@
-Demo Spring project for currency counter
+# Demo Spring project for currency counter
